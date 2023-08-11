@@ -1,0 +1,147 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+}
+
+img{
+    width: 185px;
+    height: 135px;
+}
+
+nav{
+display: flex;
+justify-content: space-between;}
+
+
+nav a{text-decoration: none;
+transform: translateY(50px);
+color:#000000;}
+
+.huses{
+    width: 300px;
+    height: 300px;
+}
+
+.hotel{
+    margin: -300px 40px 40px 620px;
+}
+
+.our{
+    margin: -50px 100px 100px 760px;
+    font-size:30px ;
+    color: rgb(170, 170, 170);
+    opacity: 0.2;
+}
+
+.nygen{
+    margin: -90px 10px 100px 625px;
+}
+
+.nomer{
+    margin: -85px 70px 60px 585px;
+    font-size: 27px;
+}
+
+.kohel{
+    margin: -53px 70px 60px 587px;
+    font-size: 25px;
+}
+
+.standart{
+    background-image: url(https://i.postimg.cc/W1cHBg24/temnaya-spalnya-5e784ef39aa99.jpg);
+    width:600x;
+    height: 400px;
+    margin: 200px 0px 0px 0px;
+}
+
+.opisanie{
+    background-color: rgb(255, 240, 127);
+    opacity: 0.4;
+    width: 200px;
+    height: 400px;
+    margin: 200px 100px 100px 100px;
+}
+
+.text{
+    color: rgb(0, 0, 0);
+    font-size: 26px;
+    opacity: 1;
+}
+
+.poly{
+    background-image: url(https://i.postimg.cc/vHBvL9KK/1633565338-1-mykaleidoscope-ru-p-kvartira-v-temnikh-tonakh-interer-krasivo-1.jpg);
+    width:600x;
+    height: 400px;
+    margin: 200px 0px 0px 0px;
+    }
+
+.luks{
+    background-image: url(https://i.postimg.cc/mkf9LQ8d/1640838456-2-bigfoto-name-p-dizain-interera-v-temnikh-tonakh-spalnya-s-2.jpg);
+    width:600x;
+    height: 400px;
+    margin: 200px 0px 0px 0px;
+}
+
+.premium{
+    background-image: url(https://i.postimg.cc/Jh049GcG/6385e7dcef20b514468678.jpg);
+    width:600x;
+    height: 400px;
+    margin: 200px 0px 0px 0px;
+}
+
+.dining{
+    background-image: url(https://i.postimg.cc/5t4Fj45V/11482-19.jpg);
+    width:600x;
+    height: 400px;
+    margin: 200px 0px 0px 0px;
+}
+
+footer{
+    background-color: #92845f;
+    height: 200px;
+}
+
+.pasport{
+    color: rgb(255, 138,138);
+    text-align:center ;
+    transform: translateY(60px);
+}
+
+.barto{
+    text-align: center;
+    transform: translateY(130px);
+    font-size: 8px;
+    color: white;
+}
+
+.nome{
+  transform: translatey(10px);
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+
+.robota{
+    transform: translateY(-16px);
+    color: white;
+}
+
+.yliga{
+    position: absolute;
+    top: 3610px;
+    float: right;
+    bottom: 50px;
+    color: rgb(255, 255, 255);
+    font-size: 23px;
+    transform:translateY(-12px) ;
+}
+
+.video{
+    text-align: center;
+    
+}
+
+nav a:hover{
+    transform: translateY(45px);
+    color: rgb(133, 111, 64);
+}
